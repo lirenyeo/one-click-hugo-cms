@@ -6,5 +6,6 @@ description: |-
   asdfasdf
   asdfasdfasdfas
   dfasdfasdfasfd
+image: /img/about-shade-grown.jpg
 ---
 sdfasdf
